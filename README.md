@@ -17,7 +17,6 @@ Simple client side form validation. Check required, length, email and password m
 
 ## Success
 
-![form-validator-success](https://user-images.githubusercontent.com/49324541/192125461-6aebec6c-bfa9-4bb1-938f-3377639e2dac.png)
-
+<img src="dp.png" alt="">
 
 ## Please give this repo a ⭐ if you found it helpful.
